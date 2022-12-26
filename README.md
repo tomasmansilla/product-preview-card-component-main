@@ -1,15 +1,16 @@
-![Desktop design](/design/desktop-design.png)
-### [Live](https://tomasmansilla.github.io/product-preview-card-component-main/) | [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-YwFBugEffm) | [Challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
-
 # Frontend Mentor - Product preview card component solution
-This is a [solution](https://tomasmansilla.github.io/product-preview-card-component-main/) to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+![Desktop design](/design/desktop-design.png)
+
+## [Live](https://tomasmansilla.github.io/product-preview-card-component-main/) | [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-YwFBugEffm) | [Challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+
+This is a [solution](https://tomasmansilla.github.io/product-preview-card-component-main/) to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -31,10 +32,9 @@ Users should be able to:
 ### Screenshot
 
 - Desktop Design:
-![desktop-design](/design/desktop-design.png "desktop design")
+  ![desktop-design](/design/desktop-design.png "desktop design")
 - Mobile Design:
-![mobile-design](/design/mobile-design.png "mobile design")
-
+  ![mobile-design](/design/mobile-design.png "mobile design")
 
 ## My process
 
